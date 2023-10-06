@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/.github.io/static/css/main.43b78618.css",
+    "main.js": "/.github.io/static/js/main.d201fda7.js",
+    "static/media/sunset.jpg": "/.github.io/static/media/sunset.2b3b7fdac51629a575a8.jpg",
+    "index.html": "/.github.io/index.html",
+    "main.43b78618.css.map": "/.github.io/static/css/main.43b78618.css.map",
+    "main.d201fda7.js.map": "/.github.io/static/js/main.d201fda7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43b78618.css",
+    "static/js/main.d201fda7.js"
+  ]
+}
